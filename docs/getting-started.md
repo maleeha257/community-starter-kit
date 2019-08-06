@@ -34,5 +34,6 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
-
-CONFIGS PLACEHOLDER
+alsjkeflakjsd;lkfj
+askdfj;laksdjf
+alskdjf;laksdjf
